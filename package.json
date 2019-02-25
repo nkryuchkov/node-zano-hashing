@@ -1,0 +1,20 @@
+{
+  "name": "zano-hashing",
+  "version": "0.0.1",
+  "main": "zanohashing",
+  "author": {
+    "name": "Nikita Kryuchkov",
+    "email": "nkryuchkov10@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nkryuchkov/node-zano-hashing.git"
+  },
+  "dependencies" : {
+    "bindings" : "*",
+    "nan": "^2.0.0"
+  },
+  "keywords": [
+    "zano"
+  ]
+}
